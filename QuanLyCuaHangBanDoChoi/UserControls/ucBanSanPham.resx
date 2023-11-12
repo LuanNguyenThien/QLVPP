@@ -120,16 +120,16 @@
   <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
   <data name="btnHuy.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
-        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8
-        YQUAAAHlSURBVFhH7ZfJSgNBFEUjCgoOoFs1Kn6IoBvdC+KXiBsHUFFE/QmHnX8gDgt/wnnjPCzcG8/t
-        fg1Rq193YoMKHjikqbqvqpNUVTqlf/4UlUqlBcdwA3fx2NT1Oo5is8WLg0G7cA1fMQtlVrHTyr8HA03i
-        M9bKE07YMLVDcQPO4xvWi2pnscGGzQ9FyxqhIBZt2HxQMIHfeeef0VjjNrwPQS24F1UVjNZR9sIktBDF
-        w+zjfXwZRH3KpDFv04Qh0IRavSH2LFPGs6jlI2rrtUzaTTxgozJB6ByOYmHuMJlAN3GuRkPXZevrRU2U
-        xpByQejMWvmn2GPZPrxATd5nbZpcGY8lZYPQuR1nXE6w2/L9mEzeY31ZbCofhM6DOJPJFQ5YmeoGrC0P
-        +1b2FToP40wmmmzQylQ3aG15cG9gJ8646HuP3j2v1V+BPoVLzGJL+SB0rsSZVKoXXGgR6oaqd0cIdxF6
-        2/AGk63mbUP13aoxBXcbegdR9N3xmucgOopavuIfRIKAdxTr6SfrKFYmDf8oFoTa0PsI6+UaW20aH4I/
-        93OcQMF0VFoMUzZsfij62UeyBIr1UPqItaIVX/9DaTUM1IFz6O2ABP1sz2C7lRcHgzbiCOpPyOc/Jvrf
-        oIPM3+f//C5KpXe6eRarad3eIwAAAABJRU5ErkJggg==
+        iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAeVJREFUWEft
+        l8lKA0EURSMKCg6gWzUqfoigG90L4peIGwdQUUT9CYedfyAOC3/CeeM8LNwbz+1+DVGrX3digwoeOKSp
+        uq+qk1RVOqV//hSVSqUFx3ADd/HY1PU6jmKzxYuDQbtwDV8xC2VWsdPKvwcDTeIz1soTTtgwtUNxA87j
+        G9aLamexwYbND0XLGqEgFm3YfFAwgd9555/RWOM2vA9BLbgXVRWM1lH2wiS0EMXD7ON9fBlEfcqkMW/T
+        hCHQhFq9IfYsU8azqOUjauu1TNpNPGCjMkHoHI5iYe4wmUA3ca5GQ9dl6+tFTZTGkHJB6Mxa+afYY9k+
+        vEBN3mdtmlwZjyVlg9C5HWdcTrDb8v2YTN5jfVlsKh+EzoM4k8kVDliZ6gasLQ/7VvYVOg/jTCaabNDK
+        VDdobXlwb2Anzrjoe4/ePa/VX4E+hUvMYkv5IHSuxJlUqhdcaBHqhqp3Rwh3EXrb8AaTreZtQ/XdqjEF
+        dxt6B1H03fGa5yA6ilq+4h9EgoB3FOvpJ+soViYN/ygWhNrQ+wjr5RpbbRofgj/3c5xAwXRUWgxTNmx+
+        KPrZR7IEivVQ+oi1ohVf/0NpNQzUgXPo7YAE/WzPYLuVFweDNuII6k/I5z8m+t+gg8zf5//8Lkqld7p5
+        Fqtp3d4jAAAAAElFTkSuQmCC
 </value>
   </data>
   <metadata name="MaSP.UserAddedColumn" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -160,6 +160,6 @@
     <value>17, 17</value>
   </metadata>
   <metadata name="$this.TrayHeight" type="System.Int32, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
-    <value>25</value>
+    <value>47</value>
   </metadata>
 </root>

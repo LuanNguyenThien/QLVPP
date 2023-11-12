@@ -28,9 +28,9 @@ namespace QuanLyCuaHangBanDoChoi.Forms
                 frm.ShowDialog();
                 return;
             }
-            LoaiSanPhamDTO lspDTO = new LoaiSanPhamDTO();
-            lspDTO.TenLoaiSP = txtTenLoaiSP.Text;
-            if (LoaiSanPhamBL.GetInstance.ThemLoaiSanPham(lspDTO))
+            LoaiSanPham lsp = new LoaiSanPham();
+            lsp.TenLoaiSP = txtTenLoaiSP.Text;
+            if (LoaiSanPhamBL.GetInstance.ThemLoaiSanPham(lsp))
             {
                 this.DialogResult = DialogResult.OK;
                 this.Close();

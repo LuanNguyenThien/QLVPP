@@ -46,12 +46,13 @@
             this.tableLayoutPanel1.Controls.Add(this.panel1, 1, 1);
             this.tableLayoutPanel1.Dock = System.Windows.Forms.DockStyle.Fill;
             this.tableLayoutPanel1.Location = new System.Drawing.Point(0, 0);
+            this.tableLayoutPanel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tableLayoutPanel1.Name = "tableLayoutPanel1";
             this.tableLayoutPanel1.RowCount = 3;
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
             this.tableLayoutPanel1.RowStyles.Add(new System.Windows.Forms.RowStyle(System.Windows.Forms.SizeType.Percent, 33.33333F));
-            this.tableLayoutPanel1.Size = new System.Drawing.Size(985, 580);
+            this.tableLayoutPanel1.Size = new System.Drawing.Size(1313, 714);
             this.tableLayoutPanel1.TabIndex = 0;
             // 
             // panel1
@@ -60,9 +61,10 @@
             this.panel1.Controls.Add(this.progressLoading);
             this.panel1.Controls.Add(this.lblPhanTram);
             this.panel1.Dock = System.Windows.Forms.DockStyle.Fill;
-            this.panel1.Location = new System.Drawing.Point(99, 196);
+            this.panel1.Location = new System.Drawing.Point(132, 242);
+            this.panel1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(776, 187);
+            this.panel1.Size = new System.Drawing.Size(1034, 230);
             this.panel1.TabIndex = 0;
             // 
             // progressLoading
@@ -71,11 +73,12 @@
             this.progressLoading.BarColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(145)))), ((int)(((byte)(249)))));
             this.progressLoading.BorderColor = System.Drawing.Color.Black;
             this.progressLoading.FillStyle = ColorProgressBar.ColorProgressBar.FillStyles.Solid;
-            this.progressLoading.Location = new System.Drawing.Point(24, 71);
+            this.progressLoading.Location = new System.Drawing.Point(32, 87);
+            this.progressLoading.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.progressLoading.Maximum = 100;
             this.progressLoading.Minimum = 0;
             this.progressLoading.Name = "progressLoading";
-            this.progressLoading.Size = new System.Drawing.Size(1000, 33);
+            this.progressLoading.Size = new System.Drawing.Size(1333, 41);
             this.progressLoading.Step = 10;
             this.progressLoading.TabIndex = 4;
             this.progressLoading.Value = 0;
@@ -83,22 +86,24 @@
             // lblPhanTram
             // 
             this.lblPhanTram.AutoSize = true;
-            this.lblPhanTram.Font = new System.Drawing.Font("UTM Avo", 20F);
+            this.lblPhanTram.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
             this.lblPhanTram.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(17)))), ((int)(((byte)(145)))), ((int)(((byte)(249)))));
-            this.lblPhanTram.Location = new System.Drawing.Point(19, 31);
+            this.lblPhanTram.Location = new System.Drawing.Point(25, 38);
+            this.lblPhanTram.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.lblPhanTram.Name = "lblPhanTram";
-            this.lblPhanTram.Size = new System.Drawing.Size(53, 37);
+            this.lblPhanTram.Size = new System.Drawing.Size(66, 39);
             this.lblPhanTram.TabIndex = 3;
             this.lblPhanTram.Text = "0%";
             // 
             // ucProgressbar
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.Controls.Add(this.tableLayoutPanel1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "ucProgressbar";
-            this.Size = new System.Drawing.Size(985, 580);
+            this.Size = new System.Drawing.Size(1313, 714);
             this.tableLayoutPanel1.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();

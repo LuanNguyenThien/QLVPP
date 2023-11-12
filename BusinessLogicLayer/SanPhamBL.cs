@@ -52,10 +52,10 @@ namespace BusinessLogicLayer
         {
             return SanPhamDL.GetInstance.ThemSanPham(spDTO);
         }
-        public bool SuaSanPham(SanPhamDTO spDTO)
+        /*public bool SuaSanPham(SanPham sp, NhaSanXuat nsx, LoaiSanPham lsp)
         {
-            return SanPhamDL.GetInstance.SuaSanPham(spDTO);
-        }
+            return SanPhamDL.GetInstance.SuaSanPham(sp, nsx, lsp);
+        }*/
         public DataTable GetDanhSachSanPhamTheoBoLoc(string TENSP, string MALOAISP, string MANCC)
         {
             return SanPhamDL.GetInstance.GetDanhSachSanPhamTheoBoLoc(TENSP,MALOAISP, MANCC);

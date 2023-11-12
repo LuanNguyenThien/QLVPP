@@ -31,7 +31,7 @@ namespace DataAccessLayer
             try
             {
                 DataTable dt = new DataTable();
-                string sql = "SELECT MANCC AS N'Mã NCC',TENNCC AS N'Tên NCC',DIACHI AS N'Địa Chỉ NCC',SDT AS N'SĐT',Email AS 'Email' FROM NCC WHERE NGUNGHOPTAC=0";
+                string sql = "EXEC GetNSX";
                 dt = DataProvider.GetTable(sql);
                 return dt;
             }

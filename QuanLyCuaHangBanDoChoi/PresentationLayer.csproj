@@ -45,11 +45,20 @@
     <Reference Include="ColorProgressBar">
       <HintPath>C:\Users\Khuongpro\Desktop\ColorProgressBar.dll</HintPath>
     </Reference>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
     <Reference Include="FastColoredTextBox">
       <HintPath>C:\Users\Khuongpro\Desktop\FastColoredTextBox.dll</HintPath>
     </Reference>
     <Reference Include="Goblinfactory.ProgressBar, Version=0.4.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\packages\Goblinfactory.ProgressBar.0.4.0\lib\netstandard2.0\Goblinfactory.ProgressBar.dll</HintPath>
+    </Reference>
+    <Reference Include="Guna.UI2, Version=2.0.1.9, Culture=neutral, PublicKeyToken=e4b9cdd7b4cde4b4, processorArchitecture=MSIL">
+      <HintPath>..\packages\Guna.UI2.WinForms.2.0.1.9\lib\net40\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.ReportViewer.Common, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.ReportingServices.ReportViewerControl.Winforms.150.1404.0\lib\net40\Microsoft.ReportViewer.Common.dll</HintPath>
@@ -78,6 +87,7 @@
       <HintPath>..\packages\System.AppContext.4.3.0\lib\net46\System.AppContext.dll</HintPath>
     </Reference>
     <Reference Include="System.ComponentModel.Composition" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
     <Reference Include="System.Console, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Console.4.3.0\lib\net46\System.Console.dll</HintPath>
     </Reference>
@@ -112,6 +122,8 @@
     <Reference Include="System.Runtime.InteropServices.RuntimeInformation, Version=4.0.1.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Runtime.InteropServices.RuntimeInformation.4.3.0\lib\net45\System.Runtime.InteropServices.RuntimeInformation.dll</HintPath>
     </Reference>
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
     <Reference Include="System.Security.Cryptography.Algorithms, Version=4.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <HintPath>..\packages\System.Security.Cryptography.Algorithms.4.3.0\lib\net461\System.Security.Cryptography.Algorithms.dll</HintPath>
     </Reference>
@@ -147,7 +159,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BSLayer\LoaiSanPhamBL.cs" />
+    <Compile Include="BSLayer\NCCBL.cs" />
+    <Compile Include="BSLayer\SanPhamBL.cs" />
     <Compile Include="ComboBoxItem.cs" />
+    <Compile Include="DALayer\DataProvider.cs" />
+    <Compile Include="DALayer\LoaiSanPhamDL.cs" />
+    <Compile Include="DALayer\NCCDL.cs" />
+    <Compile Include="DALayer\SanPhamDL.cs" />
     <Compile Include="Forms\frmChonNCC.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -171,6 +190,12 @@
     </Compile>
     <Compile Include="Forms\frmLoaiSanPham.Designer.cs">
       <DependentUpon>frmLoaiSanPham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Forms\frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Forms\frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
     </Compile>
     <Compile Include="Forms\frmNCC.cs">
       <SubType>Form</SubType>
@@ -202,6 +227,27 @@
     <Compile Include="Forms\frmThongBao.Designer.cs">
       <DependentUpon>frmThongBao.cs</DependentUpon>
     </Compile>
+    <Compile Include="LoaiSanPham.cs">
+      <DependentUpon>QuanLyVPPModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="NhaSanXuat.cs">
+      <DependentUpon>QuanLyVPPModel.tt</DependentUpon>
+    </Compile>
+    <Compile Include="QuanLyVPPModel.Context.cs">
+      <DependentUpon>QuanLyVPPModel.Context.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="QuanLyVPPModel.cs">
+      <DependentUpon>QuanLyVPPModel.tt</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <Compile Include="QuanLyVPPModel.Designer.cs">
+      <DependentUpon>QuanLyVPPModel.edmx</DependentUpon>
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+    </Compile>
     <Compile Include="Report\DataSet1.cs">
       <DependentUpon>DataSet1.xsd</DependentUpon>
     </Compile>
@@ -209,6 +255,9 @@
       <AutoGen>True</AutoGen>
       <DesignTime>True</DesignTime>
       <DependentUpon>DataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="SanPham.cs">
+      <DependentUpon>QuanLyVPPModel.tt</DependentUpon>
     </Compile>
     <Compile Include="UserControls\ucBanSanPham.cs">
       <SubType>UserControl</SubType>
@@ -296,6 +345,9 @@
     <EmbeddedResource Include="Forms\frmLoaiSanPham.resx">
       <DependentUpon>frmLoaiSanPham.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Forms\frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Forms\frmNCC.resx">
       <DependentUpon>frmNCC.cs</DependentUpon>
     </EmbeddedResource>
@@ -364,6 +416,13 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <EntityDeploy Include="QuanLyVPPModel.edmx">
+      <Generator>EntityModelCodeGenerator</Generator>
+      <LastGenOutput>QuanLyVPPModel.Designer.cs</LastGenOutput>
+    </EntityDeploy>
+    <None Include="QuanLyVPPModel.edmx.diagram">
+      <DependentUpon>QuanLyVPPModel.edmx</DependentUpon>
+    </None>
     <None Include="Report\DataSet1.xsc">
       <DependentUpon>DataSet1.xsd</DependentUpon>
     </None>
@@ -613,5 +672,21 @@
   <ItemGroup>
     <None Include="Resources\icons8_search_24px.png" />
   </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="QuanLyVPPModel.Context.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>QuanLyVPPModel.edmx</DependentUpon>
+      <LastGenOutput>QuanLyVPPModel.Context.cs</LastGenOutput>
+    </Content>
+    <Content Include="QuanLyVPPModel.tt">
+      <Generator>TextTemplatingFileGenerator</Generator>
+      <DependentUpon>QuanLyVPPModel.edmx</DependentUpon>
+      <LastGenOutput>QuanLyVPPModel.cs</LastGenOutput>
+    </Content>
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

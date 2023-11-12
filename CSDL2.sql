@@ -11,6 +11,10 @@ CREATE TABLE NhaSanXuat(
 	DiaChi nvarchar(255) NOT NULL,
 	Sdt char(10) UNIQUE NOT NULL 
 )
+
+ALTER TABLE NhaSanXuat ALTER COLUMN DiaChi nvarchar(255) NULL
+ALTER TABLE NhaSanXuat ALTER COLUMN Sdt char(10) NULL
+
 --Tạo bảng Loại SP--
 CREATE TABLE LoaiSanPham(
 	MaLoaiSP int IDENTITY(1,1) NOT NULL CONSTRAINT PK_LoaiSanPham PRIMARY KEY,
@@ -28,8 +32,12 @@ CREATE TABLE SanPham(
 	LoiNhuan int NOT NULL CHECK(LoiNhuan > 0),
 	KhuyenMai int NOT NULL CHECK(KhuyenMai >= 0),
 	TinhTrang nvarchar(21) NOT NULL CHECK(TinhTrang IN (N'Ngưng bán', N'Còn bán')),
-	HinhAnh image
+	HinhAnh varbinary(max)
 )
+
+ALTER TABLE SanPham DROP COLUMN HinhAnh
+ALTER TABLE SanPham ADD HinhAnh varbinary(max)
+
 --Tạo bảng cung cấp--
 CREATE TABLE CungCap(
 	MaSP int CONSTRAINT FK_CungCap_SP FOREIGN KEY REFERENCES SanPham(MaSP),

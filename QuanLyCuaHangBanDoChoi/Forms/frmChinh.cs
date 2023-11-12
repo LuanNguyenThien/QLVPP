@@ -167,7 +167,7 @@ namespace QuanLyCuaHangBanDoChoi.Forms
             }
             else
             {
-                btnTrangChu.FlatAppearance.MouseDownBackColor = Color.White;
+                btnTrangChu.FlatAppearance.MouseDownBackColor = Color.FromArgb(8, 133, 204);
             }
             
 
@@ -194,7 +194,7 @@ namespace QuanLyCuaHangBanDoChoi.Forms
                     {
                         if (btn.BackColor != Color.White)
                         {
-                            btn.BackColor = Color.FromArgb(17,145,249);
+                            btn.BackColor = SystemColors.ActiveCaptionText;
                             btn.ForeColor = Color.White;
                             //btn.Image = (Image)Properties.Resources.ResourceManager.GetObject(btn.AccessibleName + "_blue");
                         }
@@ -212,13 +212,14 @@ namespace QuanLyCuaHangBanDoChoi.Forms
             {
                 btnBanSanPham.ForeColor = Color.FromArgb(255, 255, 254);
                 btnBanSanPham.BackColor = Color.FromArgb(8, 133, 204);
+                //btnBanSanPham.BackColor = Color.Red;
 
                 check_reset(btnBanSanPham);
                 AddControl("ucBanSanPham");
             }
             if (btnBanSanPham.ForeColor == Color.White)
             {
-                btnBanSanPham.FlatAppearance.MouseDownBackColor = Color.FromArgb(8, 133, 204);
+                btnBanSanPham.FlatAppearance.MouseDownBackColor = Color.Red;
             }
             else
             {
@@ -274,7 +275,8 @@ namespace QuanLyCuaHangBanDoChoi.Forms
             if (btnSanPham.ForeColor == Color.White)
             {
                 btnSanPham.ForeColor = Color.FromArgb(255, 255, 254);
-                btnSanPham.BackColor = Color.FromArgb(8, 133, 204);
+                //btnSanPham.BackColor = Color.FromArgb(8, 133, 204);
+                btnBanSanPham.BackColor = Color.Red;
 
                 check_reset(btnSanPham);
                 AddControl("ucSanPham");

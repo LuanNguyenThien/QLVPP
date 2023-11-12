@@ -22,9 +22,11 @@ namespace QuanLyCuaHangBanDoChoi.Forms
                 frm.ShowDialog();
                 return;
             }
-            NhaCungCapDTO nccDTO = new NhaCungCapDTO();
-            nccDTO.TenNCC = txtTenNCC.Text;
-            if (NCCBL.GetInstance.ThemNCC(nccDTO))
+            NhaSanXuat nsx = new NhaSanXuat();
+            nsx.TenNSX = txtTenNCC.Text;
+            nsx.DiaChi = null;
+            nsx.Sdt = null;
+            if (NCCBL.GetInstance.ThemNCC(nsx))
             {
                 this.DialogResult = DialogResult.OK;
                 this.Close();

@@ -49,12 +49,12 @@ namespace QuanLyCuaHangBanDoChoi.Forms
                 {
                     if (txtSDT.Text.Length <= 12 && txtSDT.Text.Length >= 10)
                     {
-                        NhaCungCapDTO nccDTO = new NhaCungCapDTO();
-                        nccDTO.TenNCC = txtTen.Text;
-                        nccDTO.Email = txtEmail.Text;
-                        nccDTO.DiaChi = txtDiaChi.Text;
-                        nccDTO.SDT = txtSDT.Text;
-                        if (NCCBL.GetInstance.ThemNCCFull(nccDTO))
+                        NhaSanXuat nsx = new NhaSanXuat();
+                        nsx.TenNSX = txtTen.Text;
+                        //nccDTO.Email = txtEmail.Text;
+                        nsx.DiaChi = txtDiaChi.Text;
+                        nsx.Sdt = txtSDT.Text;
+                        if (NCCBL.GetInstance.ThemNCC(nsx))
                         {
                             this.Alert("Thêm thành công...", frmPopupNotification.enmType.Success);
                             LoadDataGridView();
@@ -97,7 +97,7 @@ namespace QuanLyCuaHangBanDoChoi.Forms
         {
             dgvNCC.DataSource = NCCBL.GetInstance.GetDanhSachNCC();
         }
-        int mancc = 0;
+        string mancc = "NSX0001";
         private void btnCapNhat_Click(object sender, EventArgs e)
         {
             int k = 0;
@@ -132,15 +132,15 @@ namespace QuanLyCuaHangBanDoChoi.Forms
             {
                 if (txtDiaChi.Text.Length <= 200)
                 {
-                    if (txtSDT.Text.Length <= 12 && txtSDT.Text.Length >= 10)
+                    if (txtSDT.Text.Length == 8 || txtSDT.Text.Length == 10)
                     {
-                        NhaCungCapDTO nccDTO = new NhaCungCapDTO();
-                        nccDTO.MaNCC = mancc;
-                        nccDTO.TenNCC = txtTen.Text;
-                        nccDTO.Email = txtEmail.Text;
-                        nccDTO.DiaChi = txtDiaChi.Text;
-                        nccDTO.SDT = txtSDT.Text;
-                        if (NCCBL.GetInstance.CapNhatNCC(nccDTO))
+                        NhaSanXuat nsx = new NhaSanXuat();
+                        //nccDTO.MaNCC = mancc;
+                        nsx.MaNSX = mancc;
+                        nsx.TenNSX = txtTen.Text;
+                        nsx.DiaChi = txtDiaChi.Text;
+                        nsx.Sdt = txtSDT.Text;
+                        if (NCCBL.GetInstance.CapNhatNCC(nsx))
                         {
                             this.Alert("Đã cập nhật thành công...", frmPopupNotification.enmType.Success);
                             LoadDataGridView();
@@ -216,10 +216,10 @@ namespace QuanLyCuaHangBanDoChoi.Forms
                         txtSDT.BackColor = Color.FromArgb(51, 51, 51);
                     }
                     DataGridViewRow dr = dgvNCC.SelectedRows[0];
-                    mancc = int.Parse(dr.Cells["Mã NCC"].Value.ToString().Trim());
-                    txtTen.Text = dr.Cells["Tên NCC"].Value.ToString().Trim();
-                    txtDiaChi.Text = dr.Cells["Địa Chỉ NCC"].Value.ToString().Trim();
-                    txtSDT.Text = dr.Cells["SĐT"].Value.ToString().Trim();
+                    mancc = dr.Cells["Mã Nhà Sản Xuất"].Value.ToString().Trim();
+                    txtTen.Text = dr.Cells["Tên Nhà Sản Xuất"].Value.ToString().Trim();
+                    txtDiaChi.Text = dr.Cells["Địa Chỉ"].Value.ToString().Trim();
+                    txtSDT.Text = dr.Cells["Số Điện Thoại"].Value.ToString().Trim();
                     txtEmail.Text = dr.Cells["Email"].Value.ToString().Trim();
                 }
             }

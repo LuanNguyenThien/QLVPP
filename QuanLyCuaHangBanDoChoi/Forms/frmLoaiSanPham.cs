@@ -54,9 +54,9 @@ namespace QuanLyCuaHangBanDoChoi.Forms
                 frm.ShowDialog();
                 return;
             }
-            LoaiSanPhamDTO lspDTO = new LoaiSanPhamDTO();
-            lspDTO.TenLoaiSP = txtTen.Text;
-            if (LoaiSanPhamBL.GetInstance.ThemLoaiSanPham(lspDTO))
+            LoaiSanPham lsp = new LoaiSanPham();
+            lsp.TenLoaiSP = txtTen.Text;
+            if (LoaiSanPhamBL.GetInstance.ThemLoaiSanPham(lsp))
             {
                 picThanhCong.Visible = true;
                 timer.Start();

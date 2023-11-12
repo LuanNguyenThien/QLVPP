@@ -31,7 +31,7 @@ namespace DataAccessLayer
         {
             try
             {
-                string sql = "SELECT MALOAISP AS N'Mã Loại SP', TENLOAISP AS N'Tên Loại SP' FROM LOAISANPHAM WHERE NGUNGKINHDOANH=0";
+                string sql = "EXEC GetLoaiSanPham";
                 DataTable dt = new DataTable();
                 dt = DataProvider.GetTable(sql);
                 return dt;

@@ -6,7 +6,7 @@ using System.IO;
 using BusinessLogicLayer;
 using QuanLyCuaHangBanDoChoi.Forms;
 using DTO;
-using System.Xml;
+using System.Xml; 
 
 namespace QuanLyCuaHangBanDoChoi.UserControls
 {
@@ -29,19 +29,19 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
             LoadCboNCC();
             LoadCboLocLoaiSP();
             LoadCboLocNCC();
-            LoadDataGridViewTheoBoLoc();
+            LoadDataGridView();
         }
 
         private void LoadCboLocLoaiSP()
         {
             DataTable dt = LoaiSanPhamBL.GetInstance.GetDanhSachLoaiSanPham();
             DataRow dr = dt.NewRow();
-            dr["Mã Loại SP"] = "-1";
-            dr["Tên Loại SP"] = "Tất cả";
+            dr["Mã Loại Sản Phẩm"] = "-1";
+            dr["Tên Loại Sản Phẩm"] = "Tất cả";
             dt.Rows.Add(dr);
             cboLocLoaiSP.DataSource = dt;
-            cboLocLoaiSP.DisplayMember = "Tên Loại SP";
-            cboLocLoaiSP.ValueMember = "Mã Loại SP";
+            cboLocLoaiSP.DisplayMember = "Tên Loại Sản Phẩm";
+            cboLocLoaiSP.ValueMember = "Mã Loại Sản Phẩm";
             cboLocLoaiSP.SelectedIndex = cboLocLoaiSP.Items.Count - 1;
         }
 
@@ -53,8 +53,8 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
         private void LoadCboLoaiSP()
         {
             cboLoai.DataSource = LoaiSanPhamBL.GetInstance.GetDanhSachLoaiSanPham();
-            cboLoai.DisplayMember = "Tên Loại SP";
-            cboLoai.ValueMember = "Mã Loại SP";
+            cboLoai.DisplayMember = "Tên Loại Sản Phẩm";
+            cboLoai.ValueMember = "Mã Loại Sản Phẩm";
         }
 
         private void LoadDataGridView()
@@ -63,7 +63,7 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
             dgvSanPham.DataSource = dt;
         }
 
-        int masp = 0;
+        string masp = "SP0001";
         private void dgvSanPham_Click(object sender, EventArgs e)
         {
             try
@@ -72,16 +72,16 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
                 {
                     ResetColorControls();
                     DataGridViewRow dr = dgvSanPham.SelectedRows[0];
-                    masp = int.Parse(dr.Cells["Mã SP"].Value.ToString().Trim());
-                    txtTen.Text = dr.Cells["Tên SP"].Value.ToString().Trim();
-                    cboLoai.SelectedValue = dr.Cells["Mã Loại SP"].Value.ToString();
-                    cboNCC.SelectedValue = dr.Cells["Mã NCC"].Value.ToString();
-                    cboDVT.SelectedItem = dr.Cells["ĐVT"].Value.ToString();
-                    dateNgaySX.Value = Convert.ToDateTime(dr.Cells["Ngày SX"].Value);
-                    dateNgayHetHan.Value = Convert.ToDateTime(dr.Cells["Ngày Hết Hạn"].Value);
-                    txtGiaNhap.Text = dr.Cells["Đơn Giá Nhập"].Value.ToString().Trim();
+                    masp = dr.Cells["Mã Sản Phẩm"].Value.ToString().Trim();
+                    txtTen.Text = dr.Cells["Tên Sản Phẩm"].Value.ToString().Trim();
+                    cboLoai.SelectedItem = dr.Cells["Tên Loại Sản Phẩm"].Value.ToString().Trim();
+                    cboNCC.SelectedItem = dr.Cells["Tên Nhà Sản Xuất"].Value.ToString().Trim();
+                    cboDVT.SelectedItem = dr.Cells["Đơn Vị Tính"].Value.ToString().Trim();
+                    //dateNgaySX.Value = Convert.ToDateTime(dr.Cells["Ngày SX"].Value);
+                    //dateNgayHetHan.Value = Convert.ToDateTime(dr.Cells["Ngày Hết Hạn"].Value);
+                    txtGiaNhap.Text = dr.Cells["Giá Nhập"].Value.ToString().Trim();
                     txtLoiNhuan.Text = dr.Cells["Lợi Nhuận"].Value.ToString().Trim();
-                    txtGiaBan.Text = dr.Cells["Đơn Giá Bán"].Value.ToString().Trim();
+                    txtGiaBan.Text = dr.Cells["Giá Tiền"].Value.ToString().Trim();
                     txtSoLuong.Text = dr.Cells["Số Lượng"].Value.ToString().Trim();
                     txtKhuyenMai.Text = dr.Cells["Khuyến Mãi"].Value.ToString().Trim();
                     MemoryStream ms = new MemoryStream((byte[])dgvSanPham.CurrentRow.Cells["Hình Ảnh"].Value‌​);
@@ -219,33 +219,60 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
                 {
                     if (int.Parse(txtKhuyenMai.Text) < 100)
                     {
-                        if (int.Parse(txtLoiNhuan.Text) > 0)
+                        if (int.Parse(txtLoiNhuan.Text) >= 0)
                         {
-                            if (CheckDate())
+                            SanPham sp = new SanPham();
+                            sp.MaSP = masp;
+                            sp.TenSP = txtTen.Text.ToString();
+                            sp.MaLoaiSP = cboLoai.SelectedValue.ToString();
+                            sp.DonViTinh = cboDVT.SelectedItem.ToString();
+                            sp.GiaTien = int.Parse(txtGiaBan.Text.Replace(",", ""));
+                            sp.GiaNhap = int.Parse(txtGiaNhap.Text.Replace(",", ""));
+                            sp.LoiNhuan = int.Parse(txtLoiNhuan.Text.ToString());
+                            sp.KhuyenMai = int.Parse(txtKhuyenMai.Text.ToString());
+                            /*if (string.IsNullOrEmpty(txtSoLuong.Text))
                             {
-                                SanPhamDTO spDTO = new SanPhamDTO();
-                                spDTO.tensp = txtTen.Text;
-                                spDTO.maloaisp = cboLoai.SelectedValue.ToString().Trim();
-                                spDTO.mancc = int.Parse(cboNCC.SelectedValue.ToString().Trim());
-                                spDTO.dvt = cboDVT.SelectedItem.ToString();
-                                spDTO.ngaysx = dateNgaySX.Value;
-                                spDTO.ngayhethan = dateNgayHetHan.Value;
-                                spDTO.gianhap = decimal.Parse(txtGiaNhap.Text);
-                                spDTO.loinhuan = int.Parse(txtLoiNhuan.Text);
-                                spDTO.giaban = decimal.Parse(txtGiaBan.Text);
-                                spDTO.khuyenmai = int.Parse(txtKhuyenMai.Text);
-                                Image img = picHinhAnh.Image;
-                                spDTO.hinhanh = ImageToByteArray(img);
+                                sp.SoLuong = 1;
+                            }
+                            else
+                            {
+                                sp.SoLuong = int.Parse(txtSoLuong.Text);
+                            }*/
+                            sp.TinhTrang = "Còn bán";
+                            Image _img = picHinhAnh.Image;
+                            sp.HinhAnh = ImageToByteArray(_img);
 
-                                cboLocLoaiSP.SelectedIndex = cboLoai.SelectedIndex;
-                                cboLocNCC.SelectedIndex = cboNCC.SelectedIndex;
+                            NhaSanXuat nsx = new NhaSanXuat();
+                            nsx.MaNSX = cboNCC.SelectedValue.ToString().Trim();
+                            nsx.TenNSX = cboNCC.Text.ToString();
 
-                                if (SanPhamBL.GetInstance.ThemSanPham(spDTO))
-                                {
-                                    this.Alert("Đã thêm sản phẩm thành công...", frmPopupNotification.enmType.Success);
-                                    LoadDataGridViewTheoBoLoc();
-                                    LamMoi();
-                                }
+                            LoaiSanPham lsp = new LoaiSanPham();
+                            lsp.MaLoaiSP = cboLoai.SelectedValue.ToString().Trim();
+                            lsp.TenLoaiSP = cboLoai.Text.ToString();
+                            MessageBox.Show("ok");
+
+                            /*SanPhamDTO spDTO = new SanPhamDTO();
+                            spDTO.tensp = txtTen.Text;
+                            spDTO.maloaisp = cboLoai.SelectedValue.ToString().Trim();
+                            spDTO.mancc = int.Parse(cboNCC.SelectedValue.ToString().Trim());
+                            spDTO.dvt = cboDVT.SelectedItem.ToString();
+                            spDTO.ngaysx = dateNgaySX.Value;
+                            spDTO.ngayhethan = dateNgayHetHan.Value;
+                            spDTO.gianhap = decimal.Parse(txtGiaNhap.Text);
+                            spDTO.loinhuan = int.Parse(txtLoiNhuan.Text);
+                            spDTO.giaban = decimal.Parse(txtGiaBan.Text);
+                            spDTO.khuyenmai = int.Parse(txtKhuyenMai.Text);
+                            Image img = picHinhAnh.Image;
+                            spDTO.hinhanh = ImageToByteArray(img);*/
+
+                            cboLocLoaiSP.SelectedIndex = cboLoai.SelectedIndex;
+                            cboLocNCC.SelectedIndex = cboNCC.SelectedIndex;
+
+                            if (SanPhamBL.GetInstance.ThemSanPham(sp, nsx, lsp))
+                            {
+                                this.Alert("Đã thêm sản phẩm thành công...", frmPopupNotification.enmType.Success);
+                                LoadDataGridViewTheoBoLoc();
+                                LamMoi();
                             }
                         }
                         else
@@ -309,47 +336,62 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
                 {
                     if (int.Parse(txtKhuyenMai.Text) < 100)
                     {
-                        if (int.Parse(txtLoiNhuan.Text) > 0)
+                        if (int.Parse(txtLoiNhuan.Text) >= 0)
                         {
-                            if (CheckDate())
+                            SanPham sp = new SanPham();
+                            sp.MaSP = masp;
+                            sp.TenSP = txtTen.Text.ToString();
+                            sp.MaLoaiSP = cboLoai.SelectedValue.ToString();
+                            sp.DonViTinh = cboDVT.SelectedItem.ToString();
+                            sp.GiaTien = int.Parse(txtGiaBan.Text.Replace(",", ""));
+                            sp.GiaNhap = int.Parse(txtGiaNhap.Text.Replace(",", ""));
+                            sp.LoiNhuan = int.Parse(txtLoiNhuan.Text.ToString());
+                            sp.KhuyenMai = int.Parse(txtKhuyenMai.Text.ToString());
+                            sp.SoLuong = int.Parse(txtSoLuong.Text);
+                            sp.TinhTrang = "Còn bán";
+                            Image _img = picHinhAnh.Image;
+                            sp.HinhAnh = ImageToByteArray(_img);
+
+
+                            NhaSanXuat nsx = new NhaSanXuat();
+                            nsx.MaNSX = cboNCC.SelectedIndex.ToString().Trim();
+                            nsx.TenNSX = cboNCC.Text.ToString();
+
+                            LoaiSanPham lsp = new LoaiSanPham();
+                            lsp.MaLoaiSP = cboLoai.SelectedIndex.ToString().Trim();
+                            lsp.TenLoaiSP = cboLoai.Text.ToString();
+
+                            SanPhamDTO spDTO = new SanPhamDTO();
+                            //spDTO.masp = masp;
+                            spDTO.tensp = txtTen.Text;
+                            spDTO.ngaysx = dateNgaySX.Value;
+                            spDTO.ngayhethan = dateNgayHetHan.Value;
+                            spDTO.loinhuan = int.Parse(txtLoiNhuan.Text);
+                            spDTO.gianhap = decimal.Parse(txtGiaNhap.Text);
+                            spDTO.giaban = decimal.Parse(txtGiaBan.Text);
+                            spDTO.khuyenmai = int.Parse(txtKhuyenMai.Text);
+                            Image img = picHinhAnh.Image;
+                            spDTO.hinhanh = ImageToByteArray(img);
+
+                            cboLocLoaiSP.SelectedIndex = cboLoai.SelectedIndex;
+                            cboLocNCC.SelectedIndex = cboNCC.SelectedIndex;
+
+
+                            if (SanPhamBL.GetInstance.SuaSanPham(sp, nsx, lsp))
                             {
-                                SanPhamDTO spDTO = new SanPhamDTO();
-                                spDTO.masp = masp;
-                                spDTO.tensp = txtTen.Text;
-                                spDTO.ngaysx = dateNgaySX.Value;
-                                spDTO.ngayhethan = dateNgayHetHan.Value;
-                                spDTO.loinhuan = int.Parse(txtLoiNhuan.Text);
-                                spDTO.gianhap = decimal.Parse(txtGiaNhap.Text);
-                                spDTO.giaban = decimal.Parse(txtGiaBan.Text);
-                                spDTO.khuyenmai = int.Parse(txtKhuyenMai.Text);
-                                Image img = picHinhAnh.Image;
-                                spDTO.hinhanh = ImageToByteArray(img);
-
-                                cboLocLoaiSP.SelectedIndex = cboLoai.SelectedIndex;
-                                cboLocNCC.SelectedIndex = cboNCC.SelectedIndex;
-
-                                if (SanPhamBL.GetInstance.SuaSanPham(spDTO))
-                                {
-                                    LoadDataGridViewTheoBoLoc();
-                                    LamMoi();
-                                    this.Alert("Cập nhật sản phẩm thảnh công...", frmPopupNotification.enmType.Success);
-                                }
-                                else
-                                {
-                                    this.Alert("Cập nhật thất bại...", frmPopupNotification.enmType.Success);
-                                }
+                                LoadDataGridViewTheoBoLoc();
+                                LamMoi();
+                                this.Alert("Cập nhật sản phẩm thảnh công...", frmPopupNotification.enmType.Success);
                             }
                             else
                             {
-                                frmThongBao frm = new frmThongBao();
-                                frm.lblThongBao.Text = "Ngày hết hạn phải sau ngày sản xuất";
-                                frm.ShowDialog();
+                                this.Alert("Cập nhật thất bại...", frmPopupNotification.enmType.Success);
                             }
                         }
                         else
                         {
                             frmThongBao frm = new frmThongBao();
-                            frm.lblThongBao.Text = "Lợi nhuận phải lớn hơn 0%!";
+                            frm.lblThongBao.Text = "Lợi nhuận phải lớn hơn hoặc bằng 0%!";
                             frm.ShowDialog();
                         }
                     }
@@ -432,7 +474,7 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
 
         private void LoadDataGridViewTheoBoLoc()
         {
-            dgvSanPham.DataSource = SanPhamBL.GetInstance.GetDanhSachSanPhamTheoBoLoc(txtTenSP.Text.Trim(), cboLocLoaiSP.SelectedValue.ToString().Trim(), cboLocNCC.SelectedValue.ToString().Trim());
+            dgvSanPham.DataSource = SanPhamBL.GetInstance.GetDanhSachSanPhamTheoBoLoc(txtTenSP.Text.Trim(), "", "");
             dgvSanPham.ClearSelection();
         }
 
@@ -536,20 +578,20 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
         {
             DataTable dt = NCCBL.GetInstance.GetDanhSachNCC();
             DataRow dr = dt.NewRow();
-            dr["Mã NCC"] = "-1";
-            dr["Tên NCC"] = "Tất cả";
+            dr["Mã Nhà Sản Xuất"] = "-1";
+            dr["Tên Nhà Sản Xuất"] = "Tất cả";
             dt.Rows.Add(dr);
             cboLocNCC.DataSource = dt;
-            cboLocNCC.DisplayMember = "Tên NCC";
-            cboLocNCC.ValueMember = "Mã NCC";
+            cboLocNCC.DisplayMember = "Tên Nhà Sản Xuất";
+            cboLocNCC.ValueMember = "Mã Nhà Sản Xuất";
             cboLocNCC.SelectedIndex = cboLocNCC.Items.Count - 1;
         }
 
         private void LoadCboNCC()
         {
             cboNCC.DataSource = NCCBL.GetInstance.GetDanhSachNCC();
-            cboNCC.DisplayMember = "Tên NCC";
-            cboNCC.ValueMember = "Mã NCC";
+            cboNCC.DisplayMember = "Tên Nhà Sản Xuất";
+            cboNCC.ValueMember = "Mã Nhà Sản Xuất";
         }
 
         private void pnlNCC_Click(object sender, EventArgs e)
@@ -582,18 +624,21 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
                 txtGiaNhap.Text = String.Format(culture, "{0:N0}", value);
                 txtGiaNhap.Select(txtGiaNhap.Text.Length, 0);
             }
+            txtLoiNhuan_TextChanged(sender, e);
         }
 
         private void txtLoiNhuan_TextChanged(object sender, EventArgs e)
         {
-            if (txtLoiNhuan.Text == "")
+            if (txtLoiNhuan.Text == "" || txtGiaNhap.Text=="")
             {
                 txtGiaBan.Clear();
                 return;
             }
-            if (int.Parse(txtLoiNhuan.Text) > 0)
+            if (int.Parse(txtLoiNhuan.Text) >= 0)
             {
                 int n = int.Parse(txtGiaNhap.Text.Replace(",", "")) + ((int.Parse(txtGiaNhap.Text.Replace(",", "")) * int.Parse(txtLoiNhuan.Text.Replace(",", "")) / 100));
+                if (txtLoiNhuan.Text == "0")
+                    txtGiaBan.Text = txtGiaNhap.Text;
                 txtGiaBan.Text = ConvertTien((double)n);
             }
             else
@@ -620,6 +665,11 @@ namespace QuanLyCuaHangBanDoChoi.UserControls
             char[] charArray = result.ToCharArray();
             Array.Reverse(charArray);
             return new string(charArray);
+        }
+
+        private void txtGiaNhap_Click(object sender, EventArgs e)
+        {
+            txtGiaNhap.Clear();
         }
     }
 }
