@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="11974ef48b0e4624966061864499cdb3" Name="Diagram1" ZoomLevel="57">
+        <EntityTypeShape EntityType="QuanLyVPPModel.LoaiSanPham" Width="1.5" PointX="5.375" PointY="2" />
+        <EntityTypeShape EntityType="QuanLyVPPModel.NhaSanXuat" Width="1.5" PointX="0.75" PointY="1.75" />
+        <EntityTypeShape EntityType="QuanLyVPPModel.SanPham" Width="1.5" PointX="3" PointY="1" />
+        <AssociationConnector Association="QuanLyVPPModel.FK_SP_LSP" />
+        <AssociationConnector Association="QuanLyVPPModel.CungCap" />
+        <EntityTypeShape EntityType="QuanLyVPPModel.ChiTietHoaDon" Width="1.5" PointX="3" PointY="5.5" />
+        <EntityTypeShape EntityType="QuanLyVPPModel.CongViec" Width="1.5" PointX="11.375" PointY="6.625" />
+        <EntityTypeShape EntityType="QuanLyVPPModel.HoaDon" Width="1.5" PointX="5.5" PointY="5.375" />
+        <EntityTypeShape EntityType="QuanLyVPPModel.KhachHang" Width="1.5" PointX="5.375" PointY="9" />
+        <EntityTypeShape EntityType="QuanLyVPPModel.NhanVien" Width="1.5" PointX="8.5" PointY="4.375" />
+        <EntityTypeShape EntityType="QuanLyVPPModel.TaiKhoan" Width="1.5" PointX="11.375" PointY="4.375" />
+        <AssociationConnector Association="QuanLyVPPModel.FK_CTBTT_HDTT" />
+        <AssociationConnector Association="QuanLyVPPModel.FK_CTBTT_SP" />
+        <AssociationConnector Association="QuanLyVPPModel.PK_NhanVien_CongViec" />
+        <AssociationConnector Association="QuanLyVPPModel.FK_HD_NV" />
+        <AssociationConnector Association="QuanLyVPPModel.FK_HDTT_KH" />
+        <AssociationConnector Association="QuanLyVPPModel.FK_NV_TK" />
+        <EntityTypeShape EntityType="QuanLyVPPModel.DonNhapHang" Width="1.5" PointX="13.875" PointY="2.375" />
+        <EntityTypeShape EntityType="QuanLyVPPModel.NhapHang" Width="1.5" PointX="8.375" PointY="0.5" />
+        <AssociationConnector Association="QuanLyVPPModel.FK_NH_DNH" />
+        <AssociationConnector Association="QuanLyVPPModel.FK_NH_NSX" />
+        <AssociationConnector Association="QuanLyVPPModel.FK_NH_NV" />
+        <AssociationConnector Association="QuanLyVPPModel.FK_NH_SP" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

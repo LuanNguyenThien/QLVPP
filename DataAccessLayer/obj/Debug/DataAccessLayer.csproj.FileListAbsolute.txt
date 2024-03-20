@@ -1,0 +1,90 @@
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DTO.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\bin\Debug\DTO.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\bin\Debug\DTO.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\bin\Debug\DTO.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\bin\Debug\DTO.dll
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\bin\Debug\DTO.pdb
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DataAccessLayer\bin\Debug\DTO.dll
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DataAccessLayer\bin\Debug\DTO.pdb
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DataAccessLayer\bin\Debug\DTO.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DataAccessLayer\bin\Debug\DTO.pdb
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DataAccessLayer\bin\Debug\DTO.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DataAccessLayer\bin\Debug\DTO.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DataAccessLayer\bin\Debug\DTO.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DataAccessLayer\bin\Debug\DTO.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\DataAccessLayer\bin\Debug\DataAccessLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\DataAccessLayer\bin\Debug\DTO.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\DataAccessLayer\bin\Debug\DTO.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.AssemblyReference.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\DataAccessLayer\obj\Debug\DataAccessLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\DataAccessLayer\obj\Debug\DataAccessLayer.pdb

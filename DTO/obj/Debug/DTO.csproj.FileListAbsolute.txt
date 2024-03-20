@@ -1,0 +1,52 @@
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DTO\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DTO\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DTO\obj\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final\DTO\obj\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\bin\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\bin\Debug\DTO.pdb
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\obj\Debug\DTO.dll
+E:\Đồ Án 1\QuanLyCuaHangBanDoChoi - Final - Copy\DTO\obj\Debug\DTO.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\bin\Debug\DTO.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\bin\Debug\DTO.pdb
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\obj\Debug\DTO.dll
+C:\Users\khuon\Source\Repos\khuongpro2000\ToyStore\DTO\obj\Debug\DTO.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DTO\bin\Debug\DTO.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DTO\bin\Debug\DTO.pdb
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DTO\obj\Debug\DTO.dll
+C:\Users\Khuong Nguyen\Desktop\ToyStore-master\ToyStore-master\DTO\obj\Debug\DTO.pdb
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DTO\bin\Debug\DTO.dll
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DTO\bin\Debug\DTO.pdb
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DTO\obj\Debug\DTO.dll
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\DTO\obj\Debug\DTO.pdb
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DTO\bin\Debug\DTO.dll
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DTO\bin\Debug\DTO.pdb
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DTO\obj\Debug\DTO.dll
+C:\Users\My PC\Documents\Zalo Received Files\ToyStorePOS\ToyStorePOS\ToyStore-master\CuaHangVPP\DTO\obj\Debug\DTO.pdb
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DTO\bin\Debug\DTO.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DTO\bin\Debug\DTO.pdb
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DTO\obj\Debug\DTO.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\DTO\obj\Debug\DTO.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DTO\bin\Debug\DTO.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DTO\bin\Debug\DTO.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DTO\obj\Debug\DTO.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\DTO\obj\Debug\DTO.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DTO\bin\Debug\DTO.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DTO\bin\Debug\DTO.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DTO\obj\Debug\DTO.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\DTO\obj\Debug\DTO.pdb

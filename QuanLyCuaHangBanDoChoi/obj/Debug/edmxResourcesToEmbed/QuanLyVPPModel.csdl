@@ -1,0 +1,343 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="QuanLyVPPModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityContainer Name="QuanLyVPPEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="LoaiSanPhams" EntityType="QuanLyVPPModel.LoaiSanPham" />
+    <EntitySet Name="NhaSanXuats" EntityType="QuanLyVPPModel.NhaSanXuat" />
+    <EntitySet Name="SanPhams" EntityType="QuanLyVPPModel.SanPham" />
+    <AssociationSet Name="FK_SP_LSP" Association="QuanLyVPPModel.FK_SP_LSP">
+      <End Role="LoaiSanPham" EntitySet="LoaiSanPhams" />
+      <End Role="SanPham" EntitySet="SanPhams" />
+    </AssociationSet>
+    <AssociationSet Name="CungCap" Association="QuanLyVPPModel.CungCap">
+      <End Role="NhaSanXuat" EntitySet="NhaSanXuats" />
+      <End Role="SanPham" EntitySet="SanPhams" />
+    </AssociationSet>
+    <EntitySet Name="ChiTietHoaDons" EntityType="QuanLyVPPModel.ChiTietHoaDon" />
+    <EntitySet Name="CongViecs" EntityType="QuanLyVPPModel.CongViec" />
+    <EntitySet Name="HoaDons" EntityType="QuanLyVPPModel.HoaDon" />
+    <EntitySet Name="KhachHangs" EntityType="QuanLyVPPModel.KhachHang" />
+    <EntitySet Name="NhanViens" EntityType="QuanLyVPPModel.NhanVien" />
+    <EntitySet Name="TaiKhoans" EntityType="QuanLyVPPModel.TaiKhoan" />
+    <AssociationSet Name="FK_CTBTT_HDTT" Association="QuanLyVPPModel.FK_CTBTT_HDTT">
+      <End Role="HoaDon" EntitySet="HoaDons" />
+      <End Role="ChiTietHoaDon" EntitySet="ChiTietHoaDons" />
+    </AssociationSet>
+    <AssociationSet Name="FK_CTBTT_SP" Association="QuanLyVPPModel.FK_CTBTT_SP">
+      <End Role="SanPham" EntitySet="SanPhams" />
+      <End Role="ChiTietHoaDon" EntitySet="ChiTietHoaDons" />
+    </AssociationSet>
+    <AssociationSet Name="PK_NhanVien_CongViec" Association="QuanLyVPPModel.PK_NhanVien_CongViec">
+      <End Role="CongViec" EntitySet="CongViecs" />
+      <End Role="NhanVien" EntitySet="NhanViens" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HD_NV" Association="QuanLyVPPModel.FK_HD_NV">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="HoaDon" EntitySet="HoaDons" />
+    </AssociationSet>
+    <AssociationSet Name="FK_HDTT_KH" Association="QuanLyVPPModel.FK_HDTT_KH">
+      <End Role="KhachHang" EntitySet="KhachHangs" />
+      <End Role="HoaDon" EntitySet="HoaDons" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NV_TK" Association="QuanLyVPPModel.FK_NV_TK">
+      <End Role="TaiKhoan" EntitySet="TaiKhoans" />
+      <End Role="NhanVien" EntitySet="NhanViens" />
+    </AssociationSet>
+    <EntitySet Name="DonNhapHangs" EntityType="QuanLyVPPModel.DonNhapHang" />
+    <EntitySet Name="NhapHangs" EntityType="QuanLyVPPModel.NhapHang" />
+    <AssociationSet Name="FK_NH_DNH" Association="QuanLyVPPModel.FK_NH_DNH">
+      <End Role="DonNhapHang" EntitySet="DonNhapHangs" />
+      <End Role="NhapHang" EntitySet="NhapHangs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NH_NSX" Association="QuanLyVPPModel.FK_NH_NSX">
+      <End Role="NhaSanXuat" EntitySet="NhaSanXuats" />
+      <End Role="DonNhapHang" EntitySet="DonNhapHangs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NH_NV" Association="QuanLyVPPModel.FK_NH_NV">
+      <End Role="NhanVien" EntitySet="NhanViens" />
+      <End Role="DonNhapHang" EntitySet="DonNhapHangs" />
+    </AssociationSet>
+    <AssociationSet Name="FK_NH_SP" Association="QuanLyVPPModel.FK_NH_SP">
+      <End Role="SanPham" EntitySet="SanPhams" />
+      <End Role="NhapHang" EntitySet="NhapHangs" />
+    </AssociationSet>
+  </EntityContainer>
+  <EntityType Name="LoaiSanPham">
+    <Key>
+      <PropertyRef Name="MaLoaiSP" />
+    </Key>
+    <Property Name="MaLoaiSP" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TenLoaiSP" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="SanPhams" Relationship="QuanLyVPPModel.FK_SP_LSP" FromRole="LoaiSanPham" ToRole="SanPham" />
+  </EntityType>
+  <EntityType Name="NhaSanXuat">
+    <Key>
+      <PropertyRef Name="MaNSX" />
+    </Key>
+    <Property Name="MaNSX" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TenNSX" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="DiaChi" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Sdt" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="SanPhams" Relationship="QuanLyVPPModel.CungCap" FromRole="NhaSanXuat" ToRole="SanPham" />
+    <NavigationProperty Name="DonNhapHangs" Relationship="QuanLyVPPModel.FK_NH_NSX" FromRole="NhaSanXuat" ToRole="DonNhapHang" />
+  </EntityType>
+  <EntityType Name="SanPham">
+    <Key>
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaSP" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaLoaiSP" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TenSP" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="DonViTinh" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="GiaTien" Type="Int32" Nullable="false" />
+    <Property Name="GiaNhap" Type="Int32" Nullable="false" />
+    <Property Name="SoLuong" Type="Int32" Nullable="false" />
+    <Property Name="LoiNhuan" Type="Int32" Nullable="false" />
+    <Property Name="KhuyenMai" Type="Int32" Nullable="false" />
+    <Property Name="TinhTrang" Type="String" Nullable="false" MaxLength="21" FixedLength="false" Unicode="true" />
+    <Property Name="HinhAnh" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="LoaiSanPham" Relationship="QuanLyVPPModel.FK_SP_LSP" FromRole="SanPham" ToRole="LoaiSanPham" />
+    <NavigationProperty Name="NhaSanXuats" Relationship="QuanLyVPPModel.CungCap" FromRole="SanPham" ToRole="NhaSanXuat" />
+    <NavigationProperty Name="ChiTietHoaDons" Relationship="QuanLyVPPModel.FK_CTBTT_SP" FromRole="SanPham" ToRole="ChiTietHoaDon" />
+    <NavigationProperty Name="NhapHangs" Relationship="QuanLyVPPModel.FK_NH_SP" FromRole="SanPham" ToRole="NhapHang" />
+  </EntityType>
+  <Association Name="FK_SP_LSP">
+    <End Type="QuanLyVPPModel.LoaiSanPham" Role="LoaiSanPham" Multiplicity="0..1" />
+    <End Type="QuanLyVPPModel.SanPham" Role="SanPham" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="LoaiSanPham">
+        <PropertyRef Name="MaLoaiSP" />
+      </Principal>
+      <Dependent Role="SanPham">
+        <PropertyRef Name="MaLoaiSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="CungCap">
+    <End Type="QuanLyVPPModel.NhaSanXuat" Role="NhaSanXuat" Multiplicity="*" />
+    <End Type="QuanLyVPPModel.SanPham" Role="SanPham" Multiplicity="*" />
+  </Association>
+  <EntityType Name="ChiTietHoaDon">
+    <Key>
+      <PropertyRef Name="MaHD" />
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaHD" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaSP" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Soluong" Type="Int32" Nullable="false" />
+    <Property Name="TongTien" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <NavigationProperty Name="HoaDon" Relationship="QuanLyVPPModel.FK_CTBTT_HDTT" FromRole="ChiTietHoaDon" ToRole="HoaDon" />
+    <NavigationProperty Name="SanPham" Relationship="QuanLyVPPModel.FK_CTBTT_SP" FromRole="ChiTietHoaDon" ToRole="SanPham" />
+  </EntityType>
+  <EntityType Name="CongViec">
+    <Key>
+      <PropertyRef Name="MaCV" />
+    </Key>
+    <Property Name="MaCV" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TenCV" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Luong" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <NavigationProperty Name="NhanViens" Relationship="QuanLyVPPModel.PK_NhanVien_CongViec" FromRole="CongViec" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="HoaDon">
+    <Key>
+      <PropertyRef Name="MaHD" />
+    </Key>
+    <Property Name="MaHD" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaKH" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NgayBanHang" Type="DateTime" Precision="0" />
+    <Property Name="TrangThai" Type="String" Nullable="false" MaxLength="21" FixedLength="false" Unicode="true" />
+    <Property Name="TriGiaHoaDon" Type="Decimal" Nullable="false" Precision="18" Scale="0" />
+    <NavigationProperty Name="ChiTietHoaDons" Relationship="QuanLyVPPModel.FK_CTBTT_HDTT" FromRole="HoaDon" ToRole="ChiTietHoaDon" />
+    <NavigationProperty Name="NhanVien" Relationship="QuanLyVPPModel.FK_HD_NV" FromRole="HoaDon" ToRole="NhanVien" />
+    <NavigationProperty Name="KhachHang" Relationship="QuanLyVPPModel.FK_HDTT_KH" FromRole="HoaDon" ToRole="KhachHang" />
+    <Property Name="TienKhachTra" Type="Decimal" Precision="18" Scale="0" />
+    <Property Name="TienThua" Type="Decimal" Precision="18" Scale="0" />
+  </EntityType>
+  <EntityType Name="KhachHang">
+    <Key>
+      <PropertyRef Name="MaKH" />
+    </Key>
+    <Property Name="MaKH" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="Hoten" Type="String" Nullable="false" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="Sdt" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="DiemTichLuy" Type="Int32" Nullable="false" />
+    <NavigationProperty Name="HoaDons" Relationship="QuanLyVPPModel.FK_HDTT_KH" FromRole="KhachHang" ToRole="HoaDon" />
+    <Property Name="GioiTinh" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="true" />
+    <Property Name="NgayDangKi" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TongDoanhThu" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityType Name="NhanVien">
+    <Key>
+      <PropertyRef Name="MaNV" />
+    </Key>
+    <Property Name="MaNV" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="HoTen" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="NgaySinh" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="Sdt" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="GioiTinh" Type="String" MaxLength="3" FixedLength="false" Unicode="true" />
+    <Property Name="DiaChi" Type="String" MaxLength="255" FixedLength="false" Unicode="true" />
+    <Property Name="NgayTuyenDung" Type="DateTime" Precision="0" />
+    <Property Name="TrangThai" Type="String" MaxLength="20" FixedLength="false" Unicode="true" />
+    <Property Name="MaCV" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="TenTK" Type="String" MaxLength="20" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="CongViec" Relationship="QuanLyVPPModel.PK_NhanVien_CongViec" FromRole="NhanVien" ToRole="CongViec" />
+    <NavigationProperty Name="HoaDons" Relationship="QuanLyVPPModel.FK_HD_NV" FromRole="NhanVien" ToRole="HoaDon" />
+    <NavigationProperty Name="TaiKhoan" Relationship="QuanLyVPPModel.FK_NV_TK" FromRole="NhanVien" ToRole="TaiKhoan" />
+    <Property Name="HinhAnh" Type="Binary" MaxLength="Max" FixedLength="false" />
+    <NavigationProperty Name="DonNhapHangs" Relationship="QuanLyVPPModel.FK_NH_NV" FromRole="NhanVien" ToRole="DonNhapHang" />
+  </EntityType>
+  <EntityType Name="TaiKhoan">
+    <Key>
+      <PropertyRef Name="TenTK" />
+    </Key>
+    <Property Name="TenTK" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="false" />
+    <Property Name="MatKhau" Type="String" Nullable="false" MaxLength="31" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="NhanViens" Relationship="QuanLyVPPModel.FK_NV_TK" FromRole="TaiKhoan" ToRole="NhanVien" />
+    <Property Name="Quyen" Type="String" MaxLength="30" FixedLength="false" Unicode="true" />
+  </EntityType>
+  <Association Name="FK_CTBTT_HDTT">
+    <End Type="QuanLyVPPModel.HoaDon" Role="HoaDon" Multiplicity="1" />
+    <End Type="QuanLyVPPModel.ChiTietHoaDon" Role="ChiTietHoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="HoaDon">
+        <PropertyRef Name="MaHD" />
+      </Principal>
+      <Dependent Role="ChiTietHoaDon">
+        <PropertyRef Name="MaHD" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_CTBTT_SP">
+    <End Type="QuanLyVPPModel.SanPham" Role="SanPham" Multiplicity="1" />
+    <End Type="QuanLyVPPModel.ChiTietHoaDon" Role="ChiTietHoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SanPham">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="ChiTietHoaDon">
+        <PropertyRef Name="MaSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="PK_NhanVien_CongViec">
+    <End Type="QuanLyVPPModel.CongViec" Role="CongViec" Multiplicity="1" />
+    <End Type="QuanLyVPPModel.NhanVien" Role="NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="CongViec">
+        <PropertyRef Name="MaCV" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="MaCV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HD_NV">
+    <End Type="QuanLyVPPModel.NhanVien" Role="NhanVien" Multiplicity="0..1" />
+    <End Type="QuanLyVPPModel.HoaDon" Role="HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="HoaDon">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_HDTT_KH">
+    <End Type="QuanLyVPPModel.KhachHang" Role="KhachHang" Multiplicity="0..1" />
+    <End Type="QuanLyVPPModel.HoaDon" Role="HoaDon" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="KhachHang">
+        <PropertyRef Name="MaKH" />
+      </Principal>
+      <Dependent Role="HoaDon">
+        <PropertyRef Name="MaKH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NV_TK">
+    <End Type="QuanLyVPPModel.TaiKhoan" Role="TaiKhoan" Multiplicity="0..1" />
+    <End Type="QuanLyVPPModel.NhanVien" Role="NhanVien" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TaiKhoan">
+        <PropertyRef Name="TenTK" />
+      </Principal>
+      <Dependent Role="NhanVien">
+        <PropertyRef Name="TenTK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityType Name="DonNhapHang">
+    <Key>
+      <PropertyRef Name="MaDNH" />
+    </Key>
+    <Property Name="MaDNH" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaNV" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaNSX" Type="String" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="NgayNhap" Type="DateTime" Nullable="false" Precision="0" />
+    <Property Name="TrangThai" Type="String" Nullable="false" MaxLength="20" FixedLength="false" Unicode="true" />
+    <NavigationProperty Name="NhapHangs" Relationship="QuanLyVPPModel.FK_NH_DNH" FromRole="DonNhapHang" ToRole="NhapHang" />
+    <NavigationProperty Name="NhaSanXuat" Relationship="QuanLyVPPModel.FK_NH_NSX" FromRole="DonNhapHang" ToRole="NhaSanXuat" />
+    <NavigationProperty Name="NhanVien" Relationship="QuanLyVPPModel.FK_NH_NV" FromRole="DonNhapHang" ToRole="NhanVien" />
+  </EntityType>
+  <EntityType Name="NhapHang">
+    <Key>
+      <PropertyRef Name="MaDNH" />
+      <PropertyRef Name="MaSP" />
+    </Key>
+    <Property Name="MaDNH" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="MaSP" Type="String" Nullable="false" MaxLength="10" FixedLength="false" Unicode="false" />
+    <Property Name="SoLuong" Type="Int32" />
+    <Property Name="DonGia" Type="Int32" />
+    <NavigationProperty Name="DonNhapHang" Relationship="QuanLyVPPModel.FK_NH_DNH" FromRole="NhapHang" ToRole="DonNhapHang" />
+    <NavigationProperty Name="SanPham" Relationship="QuanLyVPPModel.FK_NH_SP" FromRole="NhapHang" ToRole="SanPham" />
+  </EntityType>
+  <Association Name="FK_NH_DNH">
+    <End Type="QuanLyVPPModel.DonNhapHang" Role="DonNhapHang" Multiplicity="1" />
+    <End Type="QuanLyVPPModel.NhapHang" Role="NhapHang" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="DonNhapHang">
+        <PropertyRef Name="MaDNH" />
+      </Principal>
+      <Dependent Role="NhapHang">
+        <PropertyRef Name="MaDNH" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NH_NSX">
+    <End Type="QuanLyVPPModel.NhaSanXuat" Role="NhaSanXuat" Multiplicity="0..1" />
+    <End Type="QuanLyVPPModel.DonNhapHang" Role="DonNhapHang" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhaSanXuat">
+        <PropertyRef Name="MaNSX" />
+      </Principal>
+      <Dependent Role="DonNhapHang">
+        <PropertyRef Name="MaNSX" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NH_NV">
+    <End Type="QuanLyVPPModel.NhanVien" Role="NhanVien" Multiplicity="0..1" />
+    <End Type="QuanLyVPPModel.DonNhapHang" Role="DonNhapHang" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="NhanVien">
+        <PropertyRef Name="MaNV" />
+      </Principal>
+      <Dependent Role="DonNhapHang">
+        <PropertyRef Name="MaNV" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_NH_SP">
+    <End Type="QuanLyVPPModel.SanPham" Role="SanPham" Multiplicity="1" />
+    <End Type="QuanLyVPPModel.NhapHang" Role="NhapHang" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="SanPham">
+        <PropertyRef Name="MaSP" />
+      </Principal>
+      <Dependent Role="NhapHang">
+        <PropertyRef Name="MaSP" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+</Schema>

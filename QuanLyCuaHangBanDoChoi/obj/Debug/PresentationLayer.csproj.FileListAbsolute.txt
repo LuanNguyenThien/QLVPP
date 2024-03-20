@@ -1,0 +1,415 @@
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmChinh.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmChonNCC.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmDangNhap.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmInHoaDon.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmLoadImage.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmLoaiSanPham.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmMain.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmNCC.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmPopupNotification.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThemLoaiSP.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThemNCC.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThongBao.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucBanSanPham.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucKhachHang.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucNhanVien.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucNhapSanPham.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucProgressbar.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucQuanLySanPham.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucSanPham.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucThietLap.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucTrangChu.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Properties.Resources.resources
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.exe.config
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.exe
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.pdb
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\BusinessLogicLayer.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DTO.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Goblinfactory.ProgressBar.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Guna.UI2.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Tulpep.NotificationWindow.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\WinFormAnimation.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DataAccessLayer.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EnvDTE.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\stdole.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.MSXML.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\BusinessLogicLayer.pdb
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DTO.pdb
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.xml
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\WinFormAnimation.xml
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DataAccessLayer.pdb
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.CopyComplete
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.exe
+C:\Users\phuon\Downloads\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.exe.config
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.exe
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DTO.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.SqlServer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Goblinfactory.ProgressBar.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Guna.UI2.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Tulpep.NotificationWindow.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\WinFormAnimation.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DataAccessLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EnvDTE.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\stdole.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.MSXML.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DTO.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.SqlServer.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\WinFormAnimation.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmChinh.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmChonNCC.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmDangNhap.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmInHoaDon.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmLoadImage.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmLoaiSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmMain.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmNCC.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmPopupNotification.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThemLoaiSP.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThemNCC.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThongBao.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucBanSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucKhachHang.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucNhanVien.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucNhapSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucProgressbar.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucQuanLySanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucThietLap.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucTrangChu.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Properties.Resources.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.CopyComplete
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.exe
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.exe.config
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.exe
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DTO.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.SqlServer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Goblinfactory.ProgressBar.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Guna.UI2.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Tulpep.NotificationWindow.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\WinFormAnimation.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DataAccessLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EnvDTE.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\stdole.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.MSXML.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DTO.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.SqlServer.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\WinFormAnimation.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmChinh.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmChonNCC.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmDangNhap.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmInHoaDon.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmLoadImage.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmLoaiSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmMain.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmNCC.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmPopupNotification.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThemLoaiSP.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThemNCC.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThongBao.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucBanSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucKhachHang.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucNhanVien.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucNhapSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucProgressbar.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucQuanLySanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucThietLap.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucTrangChu.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Properties.Resources.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.CopyComplete
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.exe
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.exe.config
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.exe
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\BusinessLogicLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\DataAccessLayer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\DTO.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.SqlServer.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Goblinfactory.ProgressBar.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Guna.UI2.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.Design.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Tulpep.NotificationWindow.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\WinFormAnimation.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\EnvDTE.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\stdole.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\Microsoft.MSXML.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\BusinessLogicLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\DataAccessLayer.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\DTO.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\EntityFramework.SqlServer.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\WinFormAnimation.xml
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.AssemblyReference.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.SuggestedBindingRedirects.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmChinh.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmChonNCC.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmDangNhap.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmInHoaDon.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmLoadImage.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmLoaiSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmMain.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmNCC.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmPopupNotification.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThemLoaiSP.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThemNCC.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Forms.frmThongBao.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucBanSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucKhachHang.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucNhanVien.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucNhapSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucProgressbar.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucQuanLySanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucSanPham.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucThietLap.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.UserControls.ucTrangChu.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.Properties.Resources.resources
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.GenerateResource.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.CoreCompileInputs.cache
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\PresentationLayer.csproj.CopyComplete
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.exe
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\obj\Debug\QuanLyCuaHangBanDoChoi.pdb
+D:\DH SPKT (UTE)\Nam_3\Ki_1\Database_ManagementSystem\Final-Project\CuaHangVPP-Last\QuanLyCuaHangBanDoChoi\bin\Debug\QuanLyCuaHangBanDoChoi.pdb
